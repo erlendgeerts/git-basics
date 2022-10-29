@@ -6,4 +6,4 @@ Let's play a bit with markdown too.
 
 Apparently we can make things **bold** and even make lists:
 1.item 1
-2.item 2
+2.another item
